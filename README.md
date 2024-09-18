@@ -1,5 +1,4 @@
-# Data and analysis for computational results in 
-&ldquo;Substantial Oxygen Loss and Chemical Expansion in Lithium-Rich Layered Oxides at Moderate Delithiation &rdquo;
+# Data and analysis for computational results in &ldquo;Substantial Oxygen Loss and Chemical Expansion in Lithium-Rich Layered Oxides at Moderate Delithiation &rdquo;
 [![DOI](https://zenodo.org/badge/??.??)](https://zenodo.org/doi/1??)
 
 Scripts to analyse and plot computational data supporting:
