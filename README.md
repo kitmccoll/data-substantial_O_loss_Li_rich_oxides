@@ -20,5 +20,5 @@ This repository contains the analysis and figure-plotting workflow for the compu
 
 The repository contains two main sub-directories: 
 - `Data` (data here)
-- `Analysis` (Data analysis here)
+- `Analysis` (data analysis here)
 
