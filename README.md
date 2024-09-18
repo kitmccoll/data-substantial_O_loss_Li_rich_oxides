@@ -1,8 +1,9 @@
 # Data analysis for &ldquo;Phase segregation and nanoconfined fluid O<sub>2</sub> in a lithium-rich oxide cathode &rdquo;
 [![DOI](https://zenodo.org/badge/??.??)](https://zenodo.org/doi/1??)
 
-Scripts to analyse and plot data supporting: Substantial Oxygen Loss and Chemical Expansion in Lithium-Rich Layered Oxides at Moderate Delithiation
- ([ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/65c93d6b66c13817296bf3fc)).
+Scripts to analyse and plot data supporting: 
+Substantial Oxygen Loss and Chemical Expansion in Lithium-Rich Layered Oxides at Moderate Delithiation
+([ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/65c93d6b66c13817296bf3fc)).
 
 Authors:
 - Kit McColl (orcid: [0000-0002-7794-8276](https://orcid.org/0000-0002-7794-8276)) 
