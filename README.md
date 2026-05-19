@@ -1,6 +1,6 @@
 # Substantial Oxygen Loss in Lithium-Rich Layered Oxides
 
-[![DOI](your-doi-badge)](your-doi-link)
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41563--024--02032--6-blue)](https://doi.org/10.1038/s41563-024-02032-6)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Data and analysis scripts for the computational results in:
